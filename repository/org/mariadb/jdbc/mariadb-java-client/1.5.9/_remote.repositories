@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 20 16:16:26 CST 2018
+mariadb-java-client-1.5.9.jar>central=
+mariadb-java-client-1.5.9.pom>central=
+mariadb-java-client-1.5.9.pom>nexus-aliyun=
+mariadb-java-client-1.5.9.jar>nexus-aliyun=

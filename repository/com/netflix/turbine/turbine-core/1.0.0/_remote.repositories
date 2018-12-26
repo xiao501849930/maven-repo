@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 20 16:16:23 CST 2018
+turbine-core-1.0.0.pom>central=
+turbine-core-1.0.0.pom>nexus-aliyun=
+turbine-core-1.0.0.jar>nexus-aliyun=
+turbine-core-1.0.0.jar>central=

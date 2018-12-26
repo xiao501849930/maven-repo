@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 20 16:15:58 CST 2018
+tomcat-embed-core-8.5.23.pom>central=
+tomcat-embed-core-8.5.23.pom>nexus-aliyun=
+tomcat-embed-core-8.5.23.jar>nexus-aliyun=
+tomcat-embed-core-8.5.23.jar>central=

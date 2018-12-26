@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Dec 23 09:28:49 CST 2018
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+@default-jitpack.io-https\://jitpack.io/.lastUpdated=1545528529164
+https\://jitpack.io/.error=Could not transfer artifact com.github.hui.media\:plugins\:pom\:1.0 from/to jitpack.io (https\://jitpack.io)\: Not authorized , ReasonPhrase\: Unauthorized.
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1545528527184

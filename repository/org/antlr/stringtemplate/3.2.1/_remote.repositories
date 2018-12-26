@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 20 16:15:59 CST 2018
+stringtemplate-3.2.1.pom>nexus-aliyun=
+stringtemplate-3.2.1.jar>nexus-aliyun=
+stringtemplate-3.2.1.jar>central=
+stringtemplate-3.2.1.pom>central=

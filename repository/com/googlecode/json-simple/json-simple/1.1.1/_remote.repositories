@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 20 16:15:59 CST 2018
+json-simple-1.1.1.jar>central=
+json-simple-1.1.1.pom>central=
+json-simple-1.1.1.pom>nexus-aliyun=
+json-simple-1.1.1.jar>nexus-aliyun=

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.jetsen.framework</groupId>
+  <artifactId>framework-common</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20181109151437</lastUpdated>
+  </versioning>
+</metadata>

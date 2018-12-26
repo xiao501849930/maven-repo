@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 20 14:19:35 CST 2018
+maven-dependency-plugin-2.10.jar>nexus-aliyun=
+maven-dependency-plugin-2.10.pom>nexus-aliyun=

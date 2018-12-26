@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 20 16:16:16 CST 2018
+hystrix-metrics-event-stream-1.5.12.pom>nexus-aliyun=
+hystrix-metrics-event-stream-1.5.12.jar>nexus-aliyun=
+hystrix-metrics-event-stream-1.5.12.jar>central=
+hystrix-metrics-event-stream-1.5.12.pom>central=

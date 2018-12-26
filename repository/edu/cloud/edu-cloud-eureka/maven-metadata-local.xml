@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.cloud</groupId>
+  <artifactId>edu-cloud-eureka</artifactId>
+  <versioning>
+    <release>latest</release>
+    <versions>
+      <version>latest</version>
+    </versions>
+    <lastUpdated>20181225132837</lastUpdated>
+  </versioning>
+</metadata>

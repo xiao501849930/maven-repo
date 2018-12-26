@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 20 16:15:59 CST 2018
+ribbon-eureka-2.2.4.pom>nexus-aliyun=
+ribbon-eureka-2.2.4.jar>nexus-aliyun=
+ribbon-eureka-2.2.4.jar>central=
+ribbon-eureka-2.2.4.pom>central=

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>edu</groupId>
+		<artifactId>edu-cloud</artifactId>
+		<version>latest</version>
+		<relativePath>../pom.xml</relativePath>
+	</parent>
+
+	<groupId>edu.cloud</groupId>
+	<artifactId>edu-cloud-eureka</artifactId>
+	<packaging>jar</packaging>
+
+	<name>edu-cloud-eureka</name>
+	<description>注册中心</description>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-eureka-server</artifactId>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<finalName>${project.name}</finalName>
+		<!--<plugins>-->
+			<!--<plugin>-->
+				<!--<groupId>org.springframework.boot</groupId>-->
+				<!--<artifactId>spring-boot-maven-plugin</artifactId>-->
+				<!--<configuration>-->
+					<!--<mainClass>com.jetsen.edu.EduEurekaApplication</mainClass>-->
+					<!--<layout>ZIP</layout>-->
+					<!--<includes>-->
+						<!--<include>-->
+							<!--<groupId>nothing</groupId>-->
+							<!--<artifactId>nothing</artifactId>-->
+						<!--</include>-->
+					<!--</includes>-->
+				<!--</configuration>-->
+				<!--<executions>-->
+					<!--<execution>-->
+						<!--<goals>-->
+							<!--<goal>repackage</goal>-->
+						<!--</goals>-->
+					<!--</execution>-->
+				<!--</executions>-->
+			<!--</plugin>-->
+		<!--</plugins>-->
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <finalName>${project.name}</finalName>
+                </configuration>
+            </plugin>
+        </plugins>
+	</build>
+
+</project>

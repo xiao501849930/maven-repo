@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 20 16:15:58 CST 2018
+okhttp-3.6.0.jar>central=
+okhttp-3.6.0.pom>central=
+okhttp-3.6.0.pom>nexus-aliyun=
+okhttp-3.6.0.jar>nexus-aliyun=

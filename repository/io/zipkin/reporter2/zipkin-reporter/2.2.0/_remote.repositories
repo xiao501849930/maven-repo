@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 20 16:16:16 CST 2018
+zipkin-reporter-2.2.0.jar>nexus-aliyun=
+zipkin-reporter-2.2.0.jar>central=
+zipkin-reporter-2.2.0.pom>central=
+zipkin-reporter-2.2.0.pom>nexus-aliyun=

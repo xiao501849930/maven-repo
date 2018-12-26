@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 20 16:17:18 CST 2018
+amqp-client-3.6.5.jar>nexus=
+amqp-client-3.6.5.pom>nexus-aliyun=
+amqp-client-3.6.5.pom>nexus=
+amqp-client-3.6.5.jar>nexus-aliyun=
