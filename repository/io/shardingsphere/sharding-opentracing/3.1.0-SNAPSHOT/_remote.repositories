@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 27 11:14:30 CST 2018
+sharding-opentracing-3.1.0-SNAPSHOT-sources.jar>=
+sharding-opentracing-3.1.0-SNAPSHOT.pom>=
+sharding-opentracing-3.1.0-SNAPSHOT-javadoc.jar>=
+sharding-opentracing-3.1.0-SNAPSHOT.jar>=

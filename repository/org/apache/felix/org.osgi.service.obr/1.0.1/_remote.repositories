@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 27 11:14:55 CST 2018
+org.osgi.service.obr-1.0.1.jar>nexus-aliyun=
+org.osgi.service.obr-1.0.1.pom>nexus-aliyun=

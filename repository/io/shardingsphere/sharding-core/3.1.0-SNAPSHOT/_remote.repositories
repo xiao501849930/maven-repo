@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 27 11:14:13 CST 2018
+sharding-core-3.1.0-SNAPSHOT-javadoc.jar>=
+sharding-core-3.1.0-SNAPSHOT.pom>=
+sharding-core-3.1.0-SNAPSHOT-sources.jar>=
+sharding-core-3.1.0-SNAPSHOT.jar>=
